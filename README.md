@@ -2,6 +2,11 @@
 
 Plantilla para el [curso de desarrollo para QA](https://jj.github.io/curso-tdd)
 
-Miembros:
 
-Pilar Navarro Ramírez
+# Contribuyentes:
+
+| Name                  | Github User Name  |
+| ----                  | ---               |
+| Sergio Quijano Rey    | SergioQuijanoRey  |
+|Pilar Navarro Ramírez  | pilarnavarro      |
+
