@@ -1,3 +1,4 @@
+
 # Plantilla del curso programación para QA
 
 Plantilla para el [curso de desarrollo para QA](https://jj.github.io/curso-tdd)
@@ -5,8 +6,8 @@ Plantilla para el [curso de desarrollo para QA](https://jj.github.io/curso-tdd)
 
 # Contribuyentes:
 
-| Name                  | Github User Name  |
-| ----                  | ---               |
-| Sergio Quijano Rey    | SergioQuijanoRey  |
-|Pilar Navarro Ramírez  | pilarnavarro      |
-
+| Name                     | Github User Name  |
+| ----                     | ---               |
+| Sergio Quijano Rey       | SergioQuijanoRey  |
+| Pilar Navarro Ramírez    | pilarnavarro      |
+| Juan José Herrera Aranda | KieDie            |
