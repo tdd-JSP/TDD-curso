@@ -20,4 +20,13 @@ Plantilla para el [curso de desarrollo para QA](https://jj.github.io/curso-tdd)
 
 # Tecnologías
 
-La discusión sobre las tecnologías se desarrolla en el siguiente [issue](https://github.com/tdd-JSP/TDD-curso/issues/6)
+La discusión sobre las tecnologías se desarrolla en el siguiente [issue](https://github.com/tdd-JSP/TDD-curso/issues/6). No dudes en participar en la conversación y comentar tus ideas! :smile:
+
+* API REST: programada en `python` con `flask`
+* Sistema de mensajería: `RabbitMQ`
+* Gestión de configuración: `etcd`
+* Sistema Cloud: `Google Cloud`
+* Acceso a los datos: módulo escrito en `python` y ficheros `.csv`. En un futuro se puede utilizar una base de datos más clásica
+* Microservicios y orquestación: `docker` y `docker-compose`
+
+Estas tecnologías son una propuesta inicial que pueden variar con el paso del tiempo al detectar fallos o nuevas necesidades
