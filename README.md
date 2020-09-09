@@ -17,3 +17,7 @@ Plantilla para el [curso de desarrollo para QA](https://jj.github.io/curso-tdd)
 * Se quiere crear una API Rest para consultar distintos datos medioambientales con la intención de hacerlos más accesibles
 * Estos datos incluyen temperatura, precipitaciones, contaminación del aire...
 * Los datos corresponden a la ciudad de Granada, aunque en un futuro puede ampliarse a otras ciudades
+
+# Tecnologías
+
+La discusión sobre las tecnologías se desarrolla en el siguiente [issue](https://github.com/tdd-JSP/TDD-curso/issues/6)
